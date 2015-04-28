@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+
 
 namespace VoiteqTestHarness
 {
@@ -20,7 +20,7 @@ namespace VoiteqTestHarness
 
             Dictionary<char, int> letterCount = new Dictionary<char, int>();
 
-            //length check
+            
             string nospace1 = "";
             string nospace2 = "";
 
