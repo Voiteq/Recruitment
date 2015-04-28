@@ -1,0 +1,9 @@
+C:\Users\Administrator.DevSpareLaptop\AppData\Local\Temporary Projects\VoiteqTestHarness\bin\Debug\VoiteqTestHarness.exe.config
+C:\Users\Administrator.DevSpareLaptop\Documents\Visual Studio 2013\Projects\VoiteqTestHarness\VoiteqTestHarness\bin\Debug\VoiteqTestHarness.exe.config
+C:\Users\Administrator.DevSpareLaptop\Documents\Visual Studio 2013\Projects\VoiteqTestHarness\VoiteqTestHarness\bin\Debug\VoiteqTestHarness.exe
+C:\Users\Administrator.DevSpareLaptop\Documents\Visual Studio 2013\Projects\VoiteqTestHarness\VoiteqTestHarness\bin\Debug\VoiteqTestHarness.pdb
+C:\Users\Administrator.DevSpareLaptop\Documents\Visual Studio 2013\Projects\VoiteqTestHarness\VoiteqTestHarness\bin\Debug\nunit.framework.dll
+C:\Users\Administrator.DevSpareLaptop\Documents\Visual Studio 2013\Projects\VoiteqTestHarness\VoiteqTestHarness\bin\Debug\nunit.framework.xml
+C:\Users\Administrator.DevSpareLaptop\Documents\Visual Studio 2013\Projects\VoiteqTestHarness\VoiteqTestHarness\obj\Debug\VoiteqTestHarness.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.DevSpareLaptop\Documents\Visual Studio 2013\Projects\VoiteqTestHarness\VoiteqTestHarness\obj\Debug\VoiteqTestHarness.exe
+C:\Users\Administrator.DevSpareLaptop\Documents\Visual Studio 2013\Projects\VoiteqTestHarness\VoiteqTestHarness\obj\Debug\VoiteqTestHarness.pdb
